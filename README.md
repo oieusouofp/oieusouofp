@@ -1,36 +1,49 @@
+# 🐍 Python Learning
 
-# Python Learning 🐍
+Repositório com projetos e exercícios desenvolvidos durante meu aprendizado de Python.
 
-Repositório dedicado aos meus estudos de Python e à prática de lógica de programação.
+## 📚 Projetos
 
-## 📚 Conteúdos estudados
+### 🧮 Calculadora
+Calculadora interativa que realiza as quatro operações matemáticas básicas:
+- Adição
+- Subtração
+- Multiplicação
+- Divisão
+- Validação de entradas numéricas e prevenção de divisão por zero
 
-- Variáveis e tipos de dados
-- Condicionais (`if`, `elif`, `else`)
-- Laços de repetição (`for`, `while`)
-- Listas e operações com coleções
-- Módulos e números aleatórios
-- Validação de entradas
+### 🎲 Simulador da Mega-Sena
+Projeto de prática com geração de números aleatórios e comparação dos números escolhidos com o sorteio simulado.
 
-## 📂 Projetos
+- Geração de 6 números distintos
+- Comparação dos números
+- Contagem de acertos
 
-| Projeto | Conceitos praticados |
-|---|---|
-| Tabuada | Laços e operações matemáticas |
-| Classificação de notas | Condicionais e listas |
-| Adivinhe o número | Laços e números aleatórios |
+*Projeto educacional: a simulação não prevê resultados reais.*
+
+### 📝 Classificação de Notas
+Exercício de lógica para classificar notas de acordo com critérios de aprovação, recuperação e reprovação.
+
+### 🔢 Tabuada
+Programa que recebe um número e exibe sua tabuada.
+
+### 🎯 Adivinhe o Número
+Jogo em que o usuário tenta descobrir um número gerado aleatoriamente.
+
+## 🛠️ Tecnologias
+
+- Python 3
+- VS Code
+- Git e GitHub
 
 ## ▶️ Como executar
 
-1. Instale o Python 3.
-2. Clone este repositório.
-3. Entre na pasta do projeto.
-4. Execute o arquivo desejado:
+Com o Python instalado, abra o terminal na pasta do projeto e execute o arquivo desejado:
 
 ```bash
+python Calculadora.py
 ```
 
 ## 🎯 Objetivo
 
-Praticar programação, melhorar a qualidade do código
-e desenvolver projetos cada vez mais completos.
+Praticar lógica de programação, desenvolver projetos e evoluir continuamente como programador.
